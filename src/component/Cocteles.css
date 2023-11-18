@@ -1,0 +1,39 @@
+.rdt_TableCol{
+    background-color: hsl(60, 77%, 57%);
+    color: black;
+    font-weight: bold;
+    font-size: larger;
+    justify-content: center;
+
+}
+
+
+.rdt_TableCell{
+    background-color: rgba(9, 14, 154, 0.814);
+    color: antiquewhite;
+    font-size: larger;
+    
+    justify-content: center;
+    }
+
+.search{
+    width: 400px;
+    border-radius: 10px;
+    height: 25px;
+    background-color: #ccc;
+    color: gray;
+}
+
+.title{
+    background-color: hsl(60, 77%, 57%);
+    border-radius: 10px;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size:40px;
+}
+
+.container{
+    border-radius: 10px;
+    width: 800px;
+}
+
